@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nirmanlab/static/css/main.073c9b0a.css",
+    "main.js": "/Nirmanlab/static/js/main.cb4ef03c.js",
+    "static/js/787.7e2b5884.chunk.js": "/Nirmanlab/static/js/787.7e2b5884.chunk.js",
+    "index.html": "/Nirmanlab/index.html",
+    "main.073c9b0a.css.map": "/Nirmanlab/static/css/main.073c9b0a.css.map",
+    "main.cb4ef03c.js.map": "/Nirmanlab/static/js/main.cb4ef03c.js.map",
+    "787.7e2b5884.chunk.js.map": "/Nirmanlab/static/js/787.7e2b5884.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cb4ef03c.js"
+  ]
+}
